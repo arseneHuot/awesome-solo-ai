@@ -286,7 +286,6 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [Buffer](https://buffer.com) — schedule across every social channel.
 - [SocialEcho](https://www.socialecho.net) — publish, monitor, analyze, and manage messages across eleven social platforms from one workspace. 🆓
 - [Autoposting](https://autoposting.ai) — write in your own voice, clip long video, and schedule to X, LinkedIn, Instagram, Threads and YouTube.
-- [shortshort](https://www.shortshort.io) — turns one long talk, podcast or webinar into up to 20 vertical 9:16 shorts of 15-90 s, cut on complete sentences and captioned word by word; 60 credits free, no card.
 - [BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) — reusable, agent-agnostic skills for planning, adapting, reviewing, scheduling, and publishing social content through the [BulkPublish API](https://github.com/azeemkafridi/bulkpublish-api), with [MCP documentation](https://app.bulkpublish.com/docs). 🔌 🧩 🔓
 - [claude-seo](skills/claude-seo.md) — SEO + GEO so search and AI engines surface you. 🔓
 - [LLM Pulse](https://llmpulse.ai/) — tracks brand mentions, citations, sentiment, and competitor share of voice across AI search engines. 🔌 🧩
@@ -294,6 +293,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 
 **Make the content**
 - [Faceless content factory](playbooks/faceless-content-factory.md) — turn the [video](#video-generation), [voice](#voice-tts--cloning), and [avatar](#ai-avatars--talking-heads) tools above into a posting machine.
+- [shortshort](https://www.shortshort.io) — turns long videos into vertical clips with face tracking and word-by-word captions; includes a limited free AI trial.
 
 ---
 
