@@ -295,6 +295,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 
 **Make the content**
 - [Faceless content factory](playbooks/faceless-content-factory.md) — turn the [video](#video-generation), [voice](#voice-tts--cloning), and [avatar](#ai-avatars--talking-heads) tools above into a posting machine.
+- [shortshort](https://www.shortshort.io) — turns long videos into vertical clips with face tracking and word-by-word captions; includes a limited free AI trial.
 
 ---
 
