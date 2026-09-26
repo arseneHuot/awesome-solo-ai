@@ -224,6 +224,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 ## AI Coding Agents
 
 - [Claude Code](https://claude.com/claude-code) — Anthropic's terminal/IDE coding agent; the hub of this stack. 🧩
+- [NextReset](https://nextreset.ai/) — tracks source-linked Codex reset history and experimental forecasts, with a browser-local countdown timer. 🆓
 - [Cursor](https://cursor.com) — the AI-native IDE. 🧩
 - [Windsurf](https://windsurf.com) — agentic IDE with deep codebase awareness.
 - [Cline](https://github.com/cline/cline) — open-source autonomous coding agent for VS Code. 🔓
